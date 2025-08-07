@@ -11,7 +11,7 @@ const projects = [
   },
   {
     title: "Blog Website", link: "https://blog-website-zh3q.vercel.app/"
-  }
+  },
 ];
 
 const Projects = () => {
