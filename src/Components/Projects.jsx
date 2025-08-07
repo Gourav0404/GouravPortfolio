@@ -6,6 +6,8 @@ const projects = [
   { title: "Sign Up Form", link: "https://signup-page-nine-henna.vercel.app" },
   {
     title: "Simple Quiz App", link: "https://quiz-app-chi-woad-68.vercel.app/"
+  }, {
+    title: "My Portfolio", link: "https://gourav-portfolio-livid.vercel.app/"
   }
 ];
 
