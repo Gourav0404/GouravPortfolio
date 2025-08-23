@@ -12,6 +12,9 @@ const projects = [
   {
     title: "Blog Website", link: "https://blog-website-zh3q.vercel.app/"
   },
+  {
+    title:"CodeReviewApp" , link:"https://ai-code-review-nu.vercel.app/"
+  },
 ];
 
 const Projects = () => {
