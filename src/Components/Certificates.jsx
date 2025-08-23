@@ -17,6 +17,10 @@ const Certificates = () => {
     {
       image: "/Digitial101.jpg", // must begin with '/' if in public/
       title: "Digital 101 Journey",
+    },
+    {
+      image:"/AiImage.jpg",
+      title:"AI Fundamental"
     }
   ];
 
