@@ -3,7 +3,6 @@ import React from "react";
 const projects = [
   { title: "Landing Page", link: "https://landingpage-landingpage.onrender.com" },
   { title: "ToDo App", link: "https://gourav-chouhan-todo-list-1.vercel.app/" },
-  { title: "Sign Up Form", link: "https://signup-page-nine-henna.vercel.app" },
   {
     title: "Simple Quiz App", link: "https://quiz-app-chi-woad-68.vercel.app/"
   }, {
@@ -13,8 +12,8 @@ const projects = [
     title: "Blog Website", link: "https://blog-website-zh3q.vercel.app/"
   },
   {
-    title:"CodeReviewApp" , link:"https://ai-code-review-nu.vercel.app/"
-  },
+    title : "NotesHub Website" , link: "https://notes-hub-smoky.vercel.app/"
+  }
 ];
 
 const Projects = () => {
