@@ -1,6 +1,6 @@
 import React from "react";
 
-const skills = ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS", "Git", "GitHub", "Node.js", "Express.js", "MongoDB", "C Programming", "C++"];
+const skills = ["HTML", "CSS", "JavaScript", "React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "C++"];
 
 const Skills = () => {
   return (
