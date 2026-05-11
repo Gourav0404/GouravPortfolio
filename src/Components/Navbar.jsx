@@ -10,11 +10,16 @@ const Navbar = () => {
   return (
     <nav className="bg-gray-200 shadow-md fixed w-full z-10">
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
-        <img
+        {/* <img
           src={GouravLogo}
           className="w-[160px] h-[120px] sm:w-[150px] sm:h-[50px]  object-cover"
           alt="Logo"
-        />
+        /> */}
+        <img
+    src={GouravLogo}
+    className="w-48 sm:w-56 md:w-64 lg:w-72 h-auto object-contain"
+    alt="Gourav Dev Logo"
+  />
 
         {/* Desktop Links */}
         <ul className="hidden md:flex space-x-6">
