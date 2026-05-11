@@ -17,7 +17,7 @@ const Navbar = () => {
         /> */}
         <img
     src={GouravLogo}
-    className="w-52 sm:w-56 md:w-64 lg:w-72 h-auto object-contain"
+    className="w-50 sm:w-56 md:w-64 lg:w-72 h-auto object-contain"
     alt="Gourav Dev Logo"
   />
 
