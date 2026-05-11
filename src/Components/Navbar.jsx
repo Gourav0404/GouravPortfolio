@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
-import GouravLogo from "/GouravLogo.png"; // Adjust the path as necessary
+import GouravLogo from "/Gourav Chouhan Logo.png"; // Adjust the path as necessary
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className="bg-gray-200 shadow-md fixed w-full z-10">
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <img
-          src={Gourav Chouhan Logo}
+          src={GouravLogo}
           className="w-[150px] h-[50px] sm:w-[160px] sm:h-[45px] rounded-full object-cover"
           alt="Logo"
         />
