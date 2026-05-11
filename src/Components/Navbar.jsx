@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
-import GouravLogo from "/Gourav Chouhan logo.png"; // Adjust the path as necessary
+import GouravLogo from "/GouravLogo.png"; // Adjust the path as necessary
 
 const Navbar = () => {
   const [menuOpen, setMenuOpen] = useState(false);
