@@ -12,7 +12,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 py-4 flex justify-between items-center">
         <img
           src={GouravLogo}
-          className="w-[160px] h-[100px] sm:w-[150px] sm:h-[50px] rounded-full object-cover"
+          className="w-[160px] h-[120px] sm:w-[150px] sm:h-[50px]  object-cover"
           alt="Logo"
         />
 
